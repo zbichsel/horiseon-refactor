@@ -22,6 +22,7 @@ Each link in the navigation bar at the top of the page will bring you to the top
 ## Links
 
 https://zbichsel.github.io/horiseon-refactor
+
 https://gibhub.com/zbichsel/horiseon-refactor
 
 ## Credits
