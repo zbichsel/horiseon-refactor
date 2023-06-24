@@ -57,7 +57,7 @@ p {
 }
 
 /* Changed Class Selector TO Element Selector */
-figure {
+.hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
